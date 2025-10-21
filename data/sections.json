@@ -1,26 +1,5 @@
 {
     "sections": [
-        {
-            "id": "about",
-            "categoryId": "home",
-            "jsonPath": "/sections/cover.json",
-            "faIcon": "fa-solid fa-address-card",
-            "type": "centered",
-            "locales": {
-                "en": {
-                    "title": "Welcome to *my resume!*",
-                    "title_short": "Welcome!",
-                    "description": null,
-                    "nav_label": "About"
-                },
-                "es": {
-                    "title": "¡Bienvenido a *mi CV!*",
-                    "title_short": "Bienvenido!",
-                    "description": null,
-                    "nav_label": "Acerca de"
-                }
-            }
-        },
 
         {
             "id": "contact",
