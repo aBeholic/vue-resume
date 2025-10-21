@@ -1,3 +1,14 @@
 {
-    "categories": []
+    "categories": [
+		{
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {"nav_label": "Home"},
+                "es": {"nav_label": "Inicio"}
+            }
+        },
+	
+	
+	]
 }
