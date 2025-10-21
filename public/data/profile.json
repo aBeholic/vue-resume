@@ -1,12 +1,74 @@
 {
-    "name": "John Doe",
-    "profilePictureUrl": "",
+    "name": "Abelardo Aguado",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
     "locales": {
         "en": {
-            "name": "John Doe",
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Role"
+            "credits": "Designed by <strong><a href='https://github.com/aBeholic'>aBeholic</a></strong>",
+            "role": "FullStack Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a href='https://github.com/aBeholic'>aBeholic</a></strong>",
+            "role": "FullStack Developer"
         }
     },
-    "contactOptions": []
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": null,
+                    "valueShort": "Granada – Spain"
+                },
+                "es": {
+                    "value": null,
+                    "valueShort": "Granada – España"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "aguadobueno@outlook.com",
+            "valueShort": "aguadobueno@outlook.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:aguadobueno@outlook.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@aBeholic",
+            "valueShort": "@aBeholic",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/aBeholic"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@aguadobueno",
+            "valueShort": "@aguadobueno",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/aguadobueno"
+        },
+
+        {
+            "id": "telegram",
+            "value": "@aBeholic",
+            "valueShort": "@aBeholic",
+            "faIcon": "fa-brands fa-telegram",
+            "href": "https://t.me/aBeholic"
+        },
+
+        {
+            "id": "phone",
+            "value": "(+34) 656499676",
+            "valueShort": "(+34) 656499676",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:+34656499676"
+        }
+    ]
 }
