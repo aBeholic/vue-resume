@@ -1,0 +1,42 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["email", "phone", "telegram"],
+                "contact_circles_ids": ["linkedin", "github", "phone", "telegram"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "With over <strong>10 years</strong> of experience as a programmer, my goal is to create <strong>effective</strong> and relatable <strong>e-commerce</strong> solutions and product landing pages for small businesses and academies."
+                        },
+
+                        "es": {
+                            "description": "Con más de <strong>10 años</strong> de experiencia como programador, realizo soluciones de <strong>e-commerce</strong> y landing de productos para pymes y academias. Mi objetivo es que se sientan <strong>eficaces</strong> y cercanas."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I look forward to applying my <strong>analytical</strong> mindset and collaborative attitude to exciting challenges. I also find great reward in <strong>mentoring</strong> as a powerful way to continuously learn and ensure the team's collective growth."
+                        },
+
+                        "es": {
+                            "description": "Deseo aportar mi enfoque <strong>analítico</strong> y actitud colaborativa en retos emocionantes. También disfruto el rol de <strong>mentor</strong> como una forma gratificante de aprender continuamente y asegurar el crecimiento del equipo."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

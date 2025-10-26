@@ -2,10 +2,54 @@
     "sections": [
 
         {
+            "id": "cover",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-regular fa-address-card",
+            "type": "centered",
+            "locales": {   
+                "en": {
+                    "title": "Personal *career*",
+                    "title_short": "Profile",
+                    "description": "What defines me as a profesinal and a person.",
+                    "nav_label": "Profile"
+                },
+                "es": {
+                    "title": "Trayectoria *personal*",
+                    "title_short": "Perfil",
+                    "description": "Lo que me define como profesional y persona.",
+                    "nav_label": "Perfil"
+                }
+            }
+        },
+        
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "es": {
+                    "title": "Formación *Previa*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi trayectoria académica y logros.",
+                    "nav_label": "Formación"
+                }
+            }
+        },
+
+        {
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square",
+            "faIcon": "fa-regular fa-envelope",
             "type": "column",
             "locales": {
                 "en": {
