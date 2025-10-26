@@ -1,0 +1,101 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2005, "month": 9},
+                    "dateEnd": {"year": 2007, "month": 6},
+                    "img": "images/places/logo-zaidin-vergeles.png",
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": "#2C3E50",
+
+                    "locales": {
+                        "en": {
+                            "title": "Advanced Expert in Development of Computer Applications",
+                            "description": "Learned to develop applications, participating in the design, programming, tests and documentation. Gaining high skills in object-oriented programming (OOP), algorithms and data structures, problem solving and logical thinking.",
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "I.E.S. Zaidín-Vergeles",
+                            "tags": ["SQL", "Java", "C#", "PHP", "HTML", "CSS"]
+                        },
+
+                        "es": {
+                            "title": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+                            "description": "Aprendí a desarrollar aplicaciones, participando en el diseño, programación, pruebas y documentación. Adquiriendo habilidades en programación orientada a objetos (POO), algoritmos y estructuras de datos, resolución de problemas y pensamiento lógico.",
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "I.E.S. Zaidín-Vergeles",
+                            "tags": ["SQL", "Java", "C#", "PHP", "HTML", "CSS"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2007, "month": 12},
+                    "dateEnd": {"year": 2008, "month": 6},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#2C3E50",
+
+                    "locales": {
+                        "en": {
+                            "title": "Software Applications Development Curse",
+                            "description": "Completed a technical course focused on the fundamentals of object-oriented programming, software architecture, analysis methodologies, project and business management.",
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Technological Institute and Training, ITEF S.L.",
+                            "tags": ["OOP", "UML", "MVC", "SOLID"]
+                        },
+
+                        "es": {
+                            "title": "Curso Técnico de Programación de Aplicaiones",
+                            "description": "Completé un curso técnico centrado en los fundamentos de la programación orientada a objetos, arquitectura del software, metodologías de análisis, control de proyectos y gestión empresarial.",
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Instituto Tecnológico y Formación, ITEF S.L.",
+                            "tags": ["POO", "UML", "MVC","SOLID"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2009, "month": 2},
+                    "dateEnd": {"year": 2009, "month": 6},
+                    "img": "images/places/logo-ayto-granada.png",
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": "#2C3E50",
+
+                    "locales": {
+                        "en": {
+                            "title": "Dynamic Web Pages Design",
+                            "description": " I focused my career towards web development with this <strong>specialization</strong> course, exploring the creativity offered by new <strong>JavaScript</strong>-based technologies, alongside great professionals with whom I've built a genuine <strong>friendship</strong>.",
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Municipal Institute of Training and Employment, (IMFE)",
+                            "tags": ["PHP", "MySQL", "JavaScript", "jQuery", "AJAX"]
+                        },
+
+                        "es": {
+                            "title": "Diseño de Páginas Web Dinámicas",
+                            "description": "Enfoqué mi carrera profesional hacia el desarrollo web con este curso de <strong>especialización</strong>, explorando la creatividad que ofrecían las nuevas tecnologías basadas en <strong>JavaScript</strong>, junto a grandes profesionales con quienes conservo una sincera <strong>amistad</strong>.",
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Instituto Municipal de Formación y Empleo, (IMFE)",
+                            "tags": ["PHP", "MySQL", "JavaScript", "jQuery", "AJAX"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

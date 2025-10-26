@@ -6,7 +6,8 @@
                  :style="style"
                  :aria-valuenow="parsedPercentage"
                  aria-valuemin="0"
-                 aria-valuemax="100"/>
+                 aria-valuemax="100"
+                 :aria-label="label || `Progress: ${parsedPercentage}%`"/>
         </div>
     </div>
 </template>

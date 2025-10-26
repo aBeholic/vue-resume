@@ -29,7 +29,7 @@ ul.inline-info-list {
         }
 
         &:not(:last-child)::after {
-            content: "𐄁";
+            content: "·";
             opacity: 0.4;
             margin-left: 9px;
         }
