@@ -22,7 +22,29 @@
                 }
             }
         },
-        
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": "Experience",
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "es": {
+                    "title": "Experiencia *Profesional*",
+                    "title_short": "Experiencia",
+                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
+                    "nav_label": "Experiencia"
+                }
+            }
+        },
+
         {
             "id": "education",
             "categoryId": "background",
@@ -32,13 +54,13 @@
             "locales": {
                 "en": {
                     "title": "*Education* Background",
-                    "title_short": null,
+                    "title_short": "Education",
                     "description": "A glimpse into my academic trajectory and accomplishments.",
                     "nav_label": "Education"
                 },
                 "es": {
                     "title": "Formación *Previa*",
-                    "title_short": null,
+                    "title_short": "Formación",
                     "description": "Un vistazo a mi trayectoria académica y logros.",
                     "nav_label": "Formación"
                 }
@@ -54,13 +76,13 @@
             "locales": {
                 "en": {
                     "title": "*Contact* Me",
-                    "title_short": null,
+                    "title_short": "Contact",
                     "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
                     "nav_label": "Contact"
                 },
                 "es": {
                     "title": "Ponte en *Contacto*",
-                    "title_short": null,
+                    "title_short": "Contacto",
                     "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
                     "nav_label": "Contacto"
                 }
