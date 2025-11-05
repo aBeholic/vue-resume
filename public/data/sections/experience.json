@@ -147,9 +147,9 @@
                     "locales": {
                         "en": {
                             "title": "Back End Developer",
-                            "description": "",
+                            "description": "Programming web applications using PHP in a Linux environment, Apache server maintenance and MySQL databases management.",
                             "list": {
-                                "title": "Programming web applications using PHP in a Linux environment, Apache server maintenance and MySQL databases management.",
+                                "title": "",
                                 "items": null
                             },
                             "province": "Granada",
