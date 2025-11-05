@@ -1,0 +1,215 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2016, "month": 1},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/places/aBeholic.png",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#41b883",
+
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "As a freelance, I build projects for corporate websites, <strong>online stores</strong>, product landing pages and <strong>e-learning</strong> platforms for academies. I always make it a point to understand the company's main goal <strong>and essence</strong> and adapt my solutions to the client's needs.",
+                            "list": {
+                                "title": "Other Initiatives",
+                                "items": [
+                                    "I am actively learning about <strong>Artificial Intelligence</strong>, driven by a deep curiosity about the future of software development.",
+                                    "I am currently active in the <strong>FreeCodeCamp</strong> community, where I have also completed some courses on Vue.js and modern Front End development technologies, as well as English for Developers."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Freelance",
+                            "tags": ["JavaScript", "Vue.js", "Node.js", "HTML5", "CSS3"]
+                        },
+
+                        "es": {
+                            "title": "Full Stack Developer",
+                            "description": "Como freelance realizo proyectos para webs corporativas, <strong>tiendas online</strong>, landing de productos e incluso aplicaciones de <strong>e-learning</strong> para academias. Procuro siempre <strong>implicarme</strong> en el objetivo y la esencia de la empresa y <strong>adaptar</strong> las soluciones a las necesidades del cliente.",
+                            "list": {
+                                "title": "Otras iniciativas",
+                                "items": [
+                                    "Continúo mi formación como desarrollador completando algunos cursos de <strong>Inteligencia Artificial</strong>, por mi gran interés en el futuro de la programación.",
+                                    "Actualmente participo en la comunidad de <strong>FreeCodeCamp</strong> donde también he completado algunos cursos de Vue.js y tecnologías actuales de desarrollo FrontEnd, y de Inglés para Desarrolladores."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Freelance",
+                            "tags": ["JavaScript", "Vue.js", "Node.js", "HTML5", "CSS3"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2011, "month": 1},
+                    "dateEnd": {"year": 2020, "month": 1},
+                    "img": "images/places/LaMimbre.png",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#41b883",
+
+                    "locales": {
+                        "en": {
+                            "title": "eCommerce Developer",
+                            "description": "For several years, I was responsible for the <strong>online sales strategy</strong> of our family business, which ceased operations following the retirement of the founders.",
+                            "list": {
+                                "title": "Key contributions",
+                                "items": [
+                                    "I led the development of an online store using <strong>WordPress</strong> and <strong>WooCommerce</strong>, a solution that enabled us to secure a competitive edge in the local market and significantly expand our online sales reach.",
+                                    "This role provided me with <strong>end-to-end expertise</strong> in e-commerce, managing the <strong>entire cycle</strong> from customer service and supplier negotiations to coordinating with shipping carriers."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "La Mimbre",
+                            "tags": ["WordPress", "WooCommerce", "PHP", "JavaScript"]
+                        },
+
+                        "es": {
+                            "title": "Desarrollador eCommerce",
+                            "description": "Durante varios años, me hice responsable de la <strong>estrategia de ventas</strong> online del negocio familiar, que cesó su actividad tras la jubilación de sus fundadores.",
+                            "list": {
+                                "title": "Principales aportaciones",
+                                "items": [
+                                    "Lideré el desarrollo de una tienda online con <strong>WordPress</strong> y <strong>WooCommerce</strong>, que nos permitió <strong>posicionarnos</strong> por delante de la competencia local y expandir nuestro alcance de mercado de manera significativa.",
+                                    "Esta experiencia me aportó un <strong>conocimiento integral</strong> del e-commerce, gestionando todo el ciclo, desde la atención al <strong>cliente</strong> y la negociación con <strong>proveedores</strong> hasta la coordinación con empresas de transporte."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "La Mimbre",
+                            "tags": ["WordPress", "WooCommerce", "PHP", "JavaScript"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2013, "month": 3},
+                    "dateEnd": {"year": 2015, "month": 11},
+                    "img": "images/places/Perytas.jpg",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#41b883",
+
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "As a Solo Developer, I led the end-to-end development of the company's <strong>digital presence</strong> — building the corporate website and blog with WordPress, translating prototypes from the external UX design team, and creating <strong>high-conversion</strong> landing pages using PHP and JavaScript.",
+                            "list": {
+                                "title": "Key contributions",
+                                "items": [
+                                    "The implementation of a disruptive <strong>SEO strategy</strong> was so effective that it positioned the company to compete directly with a leading multinational in the industry."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Perytas, Expert appraisals and valuations",
+                            "tags": ["PHP", "JavaScript", "Google Analytics", "SEO"]
+                        },
+
+                        "es": {
+                            "title": "Full Stack Developer",
+                            "description": "Como Solo Developer, lideré el desarrollo integral de la <strong>presencia digital</strong> de la empresa. Construyendo la web corporativa y blog en WordPress, traduciendo los prototipos del equipo de diseño de UX externo, y creando landing pages de <strong>alta conversión</strong> con PHP y JavaScript.",
+                            "list": {
+                                "title": "Principales aportaciones",
+                                "items": [
+                                    "La implementación de una <strong>estrategia de SEO</strong> disruptiva fue tan efectiva que posicionó a la empresa para competir directamente con una multinacional líder en el sector."
+                                ]
+                            },
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Perytas, Peritajes y Tasaciones Judiciales",
+                            "tags": ["PHP", "JavaScript", "Google Analytics", "SEO"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2009, "month": 11},
+                    "dateEnd": {"year": 2010, "month": 7},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#2c3e50",
+
+                    "locales": {
+                        "en": {
+                            "title": "Back End Developer",
+                            "description": "",
+                            "list": {
+                                "title": "Programming web applications using PHP in a Linux environment, Apache server maintenance and MySQL databases management.",
+                                "items": null
+                            },
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Abacoarte",
+                            "tags": ["PHP", "MySQL", "Apache"]
+                        },
+
+                        "es": {
+                            "title": "Back End Developer",
+                            "description": "Programación de aplicaciones en PHP bajo entorno Linux, con mantenimiento de servidor Apache y gestión bases de datos MySQL.",
+                            "list": {
+                                "title": "",
+                                "items": null
+                            },
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Abacoarte",
+                            "tags": ["PHP", "MySQL", "Apache"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2009, "month": 4},
+                    "dateEnd": {"year": 2009, "month": 9},
+                    "img": "images/places/GranadaHoy.png",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#2c3e50",
+
+                    "locales": {
+                        "en": {
+                            "title": "Web Management",
+                            "description": "Content management and picture galleries design for the newspaper website, as well as teaching the workgroup on the use of custom CMS.",
+                            "list": {
+                                "title": "",
+                                "items": null
+                            },
+                            "province": "Granada",
+                            "country": "Spain",
+                            "institution": "Granada Hoy, News",
+                            "tags": ["CMS", "Mentoring"]
+                        },
+
+                        "es": {
+                            "title": "Web Management",
+                            "description": "Gestión de contenidos y creación de galerías gráficas para la web de la empresa, así como formación sobre el manejo de las herramientas del sistema de información al grupo de trabajo.",
+                            "list": {
+                                "title": "",
+                                "items": null
+                            },
+                            "province": "Granada",
+                            "country": "España",
+                            "institution": "Diario Granada Hoy",
+                            "tags": ["CMS", "Mentoring"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
